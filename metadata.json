@@ -1,0 +1,6 @@
+{
+  "name": "GIMI | Portal de Engenharia",
+  "description": "Portal unificado de ferramentas, manuais, aplicativos e automações do Grupo GIMI com mascote Atumalaca, gerenciamento e favoritos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
